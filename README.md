@@ -40,14 +40,17 @@ Since Comedy, Sci-Fi and Fantasy had the same frequency I decided to add all of 
 After the second iteration of the top_genres method for the moderetaly successfull movies we got the top three genres as the following
 
 Drama                9
-\n
-Thriller             7 \n
+
+Thriller             7
+
 Horror               5
 
 And last but not least, for less successfull movies, the top genres were the following: 
 
 Action              12
+
 Thriller            10
+
 Drama                7
 
 From the above results we can see that the Thriller genre appears to both moderate and low success films. With that in mind we can draw the conclusion, that producing a film withing the thriller genre is a very risky decision, as the probability of it succeding is very low.
