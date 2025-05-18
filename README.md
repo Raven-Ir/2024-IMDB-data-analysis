@@ -26,9 +26,13 @@ This way we will locate the most popular genres based on their Profit.
 After the first iteration of the top_genres method for the successfull movies we got the top three genres as the following
 
 Adventure           15
+
 Action              10
+
 Comedy               9
+
 Sci-Fi               9
+
 Fantasy              9
 
 Since Comedy, Sci-Fi and Fantasy had the same frequency I decided to add all of them.
@@ -36,7 +40,8 @@ Since Comedy, Sci-Fi and Fantasy had the same frequency I decided to add all of 
 After the second iteration of the top_genres method for the moderetaly successfull movies we got the top three genres as the following
 
 Drama                9
-Thriller             7
+\n
+Thriller             7 \n
 Horror               5
 
 And last but not least, for less successfull movies, the top genres were the following: 
