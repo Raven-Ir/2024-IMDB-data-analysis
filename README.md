@@ -59,7 +59,7 @@ Our first hypothesis -based on our sample- is already proved partially true. Pro
 
 To test the second hypothesis, we will calculate the mean value for each of three above mentioned dataframes that we created. While it is a more conservative way, it is beneficial for the company to be aware budget wise. The highest and the lowest value will also be considered, while the median will be mentioned as well.
 
-Regarding the second hypothesis, by the visualisation we can notive that the clean revenue is not always profitable as we have negative values as well. Noticing that there are 
+Regarding the second hypothesis, by the visualisation we can notive that the clean revenue is not always profitable as we have negative values as well. The existance of the negative values of the profit are an indicator of a film being non-profitable, a topic that we are exploring, so we will calculate the frequency percentage of the netative values.
 
 ### LIMITATIONS:
 
